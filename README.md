@@ -1,5 +1,5 @@
-# Redes-de-Computadores---Python3
+# Redes-de-Computadores
 
-   
-   Este repositorio é composto de alguns métodos vistos na disciplina de Redes de Computadores, onde serão implementados alguns códigos em python 3 como, sockets
+   This repository is build with some methods used by the internet, like sockets.
+
 
